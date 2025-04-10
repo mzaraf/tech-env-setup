@@ -16,7 +16,7 @@ Ubuntu was downloaded from https://ubuntu.com/download/desktop and installed on 
 ## Accounts Created
 1. Github Account
 Github account was created at https://github.com/
-![github](/img/5.GitHub%20Profile.png)
+![github](/img/5.GitHub.png)
 2. Amazon Web Services (AWS) Account
 AWS account was created at https://aws.amazon.com/
 ![aws](/img/6.AWS.png)
