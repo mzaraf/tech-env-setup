@@ -10,7 +10,7 @@ Git was downloaded from https://git-scm.com/downloads and installed. screenshot 
 
 3. Virtual Box
 Virtual Box was downloaded from https://www.virtualbox.org/wiki/Downloads and installed. screenshot below:
-![VirtualBox Welcome Screen](/img/3.Virtualbox.png)
+![VirtualBox Welcome Screen](/img/3.VirtualBox.png)
 
 4. Ubuntu on Virtual Box (Windows)
 Ubuntu was downloaded from https://ubuntu.com/download/desktop and installed on Virtual Box. screenshot below:
